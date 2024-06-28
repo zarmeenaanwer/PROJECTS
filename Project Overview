@@ -1,0 +1,16 @@
+This SQL project involves analyzing a pizza ordering system database. The database contains tables for orders, order details, pizza types, pizza prices, and other relevant information. The goal of the project is to perform various data analysis tasks using SQL queries, such as calculating revenue, analyzing pizza orders, determining popular pizza types, and evaluating performance metrics.
+
+KEY OBJECTIVES:
+
+DATA ANALYSIS: Analyze order data to calculate revenue, average order size, and other key metrics.
+
+PERFORMANCE EVALUATION: Evaluate the performance of pizza types based on their popularity and revenue contribution.
+ 
+TIMELINE MANAGEMENT: Assess the completion time for orders and identify any delays or issues affecting order fulfillment
+
+QUERY OPTIMIZATION: Optimize SQL queries for efficient data retrieval and analysis.
+
+Conclusion:
+
+The SQL project aims to provide insights into the pizza ordering system's performance, customer preferences,
+and operational efficiency through data-driven analysis and query optimization.
